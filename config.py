@@ -1,7 +1,7 @@
 import os
 
 # Bot configuration
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8056968914:AAFDHOMpNXVx-x4GNRx-YEv9ucAZogF2zs8")
 ADMIN_CODE = os.getenv("ADMIN_CODE", "1234")
 ADMIN_CHAT_ID = int(os.getenv("ADMIN_CHAT_ID", "7792775986"))
 
